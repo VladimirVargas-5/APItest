@@ -1,0 +1,26 @@
+clientAPI/RequestGET.java
+ clientAPI.RequestGET
+configuration/Configuration.java
+ configuration.Configuration
+clientAPI/RequestInformation.java
+ clientAPI.RequestInformation
+clientAPI/RequestPOST.java
+ clientAPI.RequestPOST
+clientAPI/ResponseInformation.java
+ clientAPI.ResponseInformation
+clientAPI/RequestPUT.java
+ clientAPI.RequestPUT
+runner/RunnerCucumber.java
+ runner.RunnerCucumber
+clientAPI/RequestDELETE.java
+ clientAPI.RequestDELETE
+report/ReportGenerator.java
+ report.ReportGenerator
+runner/MyStepdefs.java
+ runner.MyStepdefs
+clientAPI/FactoryRequest.java
+ clientAPI.FactoryRequest
+helpers/jsonHelper.java
+ helpers.jsonHelper
+clientAPI/RequestClient.java
+ clientAPI.RequestClient
